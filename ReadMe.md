@@ -48,7 +48,7 @@ A carousel summarizing the biggest moments from the Academy Awards 2026, includi
 - Editorial storytelling
 
 <p align="center">
-<img src="assets/oscars-2026.png" width="900">
+<img src="assets/OSCAR_POST.png" width="900">
 </p>
 
 ---
@@ -70,7 +70,7 @@ Topics covered include:
 The series combines cinematic typography, dark aesthetics, textured layouts, and editorial storytelling.
 
 <p align="center">
-<img src="assets/horror-series.png" width="900">
+<img src="assets/HORROR_GENRE_ANALYSIS.png" width="900">
 </p>
 
 ---
@@ -88,7 +88,7 @@ Includes:
 - Comic-inspired visual style
 
 <p align="center">
-<img src="assets/movie-recommendations.png" width="900">
+<img src="assets/MOVIE_RECOMMENDATION.png" width="900">
 </p>
 
 ---
@@ -116,33 +116,7 @@ These designs are created keeping in mind:
 
 ---
 
-# ✨ Responsibilities at Cinema Club
 
-As a designer, I contribute by:
-
-- Designing Instagram posts and carousel series
-- Creating event promotions and announcements
-- Developing visual identities for themed campaigns
-- Maintaining the club's design language
-- Collaborating with content writers and coordinators
-- Transforming long-form content into engaging visual narratives
-
----
-
-# 📈 Skills Demonstrated
-
-- Graphic Design
-- Editorial Design
-- Social Media Design
-- Typography
-- Layout Design
-- Visual Storytelling
-- Brand Consistency
-- Content Visualization
-- Color Theory
-- Composition
-
----
 
 ## 📌 About This Repository
 
