@@ -48,7 +48,7 @@ A carousel summarizing the biggest moments from the Academy Awards 2026, includi
 - Editorial storytelling
 
 <p align="center">
-<img src="assets/OSCAR_POST.png" width="900">
+<img src="IG_POSTS/OSCAR_POST.png">
 </p>
 
 ---
@@ -70,7 +70,7 @@ Topics covered include:
 The series combines cinematic typography, dark aesthetics, textured layouts, and editorial storytelling.
 
 <p align="center">
-<img src="assets/HORROR_GENRE_ANALYSIS.png" width="900">
+<img src="IG_POSTS/HORROR_GENRE_ANALYSIS.png">
 </p>
 
 ---
@@ -88,7 +88,7 @@ Includes:
 - Comic-inspired visual style
 
 <p align="center">
-<img src="assets/MOVIE_RECOMMENDATION.png" width="900">
+<img src="IG_POSTS/MOVIE_RECOMMENDATION.png">
 </p>
 
 ---
